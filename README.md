@@ -1,10 +1,9 @@
-========================
-    Roll The Dice 
-       v.1.0.0
+# Roll The Dice 
+v.1.0.0
 
-    Pineapple Soft
+Pineapple Soft
 www.pineapplesoft.co.uk
-========================
+
 
 Description
 ------------
