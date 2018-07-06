@@ -1,5 +1,4 @@
 # Roll The Dice 
-v.1.0.0
 
 Pineapple Soft
 
