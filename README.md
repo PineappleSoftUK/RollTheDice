@@ -26,6 +26,10 @@ You should have received a copy of the GNU General Public License along with thi
 Release Notes
 --------------
 
+Version 1.0.1 -- 8 July 2018
+
++ Amended build.xml to allow for ant build.
+
 Version 1.0.0 -- 4 July 2018
 
 + Initial release
